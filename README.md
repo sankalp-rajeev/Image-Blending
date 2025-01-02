@@ -1,7 +1,7 @@
 # Image Blending with Gaussian and Laplacian Pyramids
 
 ## Author
-**Vivek Roy**
+**Sankalp Rajeev**
 
 ## Overview
 
